@@ -1,0 +1,17 @@
+{
+  "name": "bunions",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@elysiajs/html": "^0.6.4",
+    "@prisma/client": "5.2.0",
+    "elysia": "^0.6.20",
+    "prisma": "^5.2.0"
+  }
+}
